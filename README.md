@@ -27,7 +27,7 @@ Tables used in this project:
 - SQL & Python
 - GitHub for project sharing
 
-## 🔍 Questions explored
+## Questions explored
 
 1. What are the top 10 most sold products?
 2. What is the monthly sales trend?
@@ -36,4 +36,13 @@ Tables used in this project:
 5. What is the average revenue per order?
 6. What is the profit margin by product?
 7. Which sellers have the highest number of sales?
+
+## 📊 Key Findings
+
+- The most sold products mostly belong to the highest revenue categories.
+- The top 3 revenue-generating categories are Health Beauty, Watches Present, and Bed Table Bath.
+- Sales are highest in May, July, and August. The end of the year shows a drop in orders.
+...in process
+
+These results can help the company improve stock planning, seasonal marketing, and category strategies.
 
