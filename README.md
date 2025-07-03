@@ -46,3 +46,7 @@ Tables used in this project:
 
 These results can help the company improve stock planning, seasonal marketing, and category strategies.
 
+## Auteur
+Welly Diallo – Future étudiante en Mastère IA & Big Data à l'ESGI
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2wellydiallo%2Personal-project-e-commerce-sales-analysis-sql&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=false)
